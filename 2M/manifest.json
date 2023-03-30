@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "2M",
-  "description": "Renames file to host+date",
-  "version": "1.3",
+  "description": "Renames file by adding host at the beginning of the filename",
+  "version": "1.4",
   "background": {"service_worker": "background.js"},
   "permissions": ["downloads"]
 }
